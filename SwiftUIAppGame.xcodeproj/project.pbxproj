@@ -13,6 +13,7 @@
 		24710C8724993336003B2C05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24710C8624993336003B2C05 /* Assets.xcassets */; };
 		24710C8A24993336003B2C05 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24710C8924993336003B2C05 /* Preview Assets.xcassets */; };
 		24710C8D24993336003B2C05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24710C8B24993336003B2C05 /* LaunchScreen.storyboard */; };
+		24710C9524993357003B2C05 /* MesNotes.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 24710C9424993357003B2C05 /* MesNotes.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		24710C8924993336003B2C05 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		24710C8C24993336003B2C05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24710C8E24993336003B2C05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24710C9424993357003B2C05 /* MesNotes.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = MesNotes.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		24710C7424993331003B2C05 = {
 			isa = PBXGroup;
 			children = (
+				24710C9424993357003B2C05 /* MesNotes.rtf */,
 				24710C7F24993331003B2C05 /* SwiftUIAppGame */,
 				24710C7E24993331003B2C05 /* Products */,
 			);
@@ -133,6 +136,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24710C9524993357003B2C05 /* MesNotes.rtf in Resources */,
 				24710C8D24993336003B2C05 /* LaunchScreen.storyboard in Resources */,
 				24710C8A24993336003B2C05 /* Preview Assets.xcassets in Resources */,
 				24710C8724993336003B2C05 /* Assets.xcassets in Resources */,
